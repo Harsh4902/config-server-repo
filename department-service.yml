@@ -4,6 +4,8 @@ spring:
     username: root
     password: Harsh@4902
     driver-class-name: com.mysql.cj.jdbc.Driver
+  boot:
+    message: Hello From department service
 
   jpa:
     hibernate:
