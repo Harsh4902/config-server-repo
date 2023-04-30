@@ -5,7 +5,7 @@ spring:
     username: root
     password: Harsh@4902
   boot:
-    message: Hello From employee service
+    message: Hello From employee service cloud bus refresh
 
   jpa:
     show-sql: true
