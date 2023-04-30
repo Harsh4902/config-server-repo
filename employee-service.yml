@@ -4,6 +4,8 @@ spring:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
     password: Harsh@4902
+  boot:
+    message: Hello From department service Updated
 
   jpa:
     show-sql: true
